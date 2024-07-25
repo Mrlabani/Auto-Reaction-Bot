@@ -54,7 +54,7 @@ async function onUpdate(data, botApi, Reactions, RestrictedChats, botUsername, R
                     { "text": "➕ Add to Group ➕", "url": `https://t.me/${botUsername}?startgroup=botstart` },
                 ],
                 [
-                    { "text": "Github Source 📥", "url": "https://github.com/ZxLbni" },
+                    { "text": "OWNER 🍃", "url": "https://t.me/l_abani" },
                 ]
             ]);
         } else if (data.message && text === '/reactions') {
